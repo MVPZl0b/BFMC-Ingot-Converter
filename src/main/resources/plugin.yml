@@ -1,0 +1,11 @@
+name: BlockConverter
+main: com.biteforcemc.ingotConverter
+version: v0.1
+author: zack
+website: http://zackery.club
+description: Convert nuggets and ingots into blocks with one simple command
+commands:
+  block:
+    description: convert nuggets and ingots into blocks
+    permission: block.converter
+
